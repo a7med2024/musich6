@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= 1
-game= Type 1 help
+prefix= Li
+game= Type Li help
 stayinchannel=true
 songinstatus=true 
-token=NTI3ODQyOTA3OTM2MzkxMTgx.DwZn-g.Dkej27cVi9ExB1p7PqVklMNBx3Q
+token=NTQ2NjIzNjE1NjY0MzkwMTY0.D0q6bw.zg3g-ZUMvDnOcmm4YVKwUrR3A-c
